@@ -1,5 +1,5 @@
 #import "WifiIotPlugin.h"
-#import <iot_wifi/iot_wifi-Swift.h>
+#import <wifi_iot/wifi_iot-Swift.h>
 
 @implementation WifiIotPlugin
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {
